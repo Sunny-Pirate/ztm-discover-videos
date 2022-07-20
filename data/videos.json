@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LY4rylkAtGeLKJnCYn5jOU_190M",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "IT",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yW09k9SlMaN04b4juUntvOIk5Rc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5lR0pkUjzb4"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-06T14:00:02Z",
+        "channelId": "UC_976xMxPgzIa290Hqtk-9g",
+        "title": "Strange World | Teaser Trailer | Walt Disney Animation Studios",
+        "description": "Travel past space and time to a place of infinite mystery. Watch the new trailer for Disney's #StrangeWorld and see the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5lR0pkUjzb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5lR0pkUjzb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5lR0pkUjzb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Animation Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-06T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5zOJLIlPP7UxrQGktOJYwFgUnxQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2vNVGZGlUok"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-31T12:45:36Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "Pinocchio | Teaser Trailer | Disney+",
+        "description": "When you wish upon a star…⭐ Watch the trailer for the all-new live action #Pinocchio and stream the movie, a #DisneyPlusDay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2vNVGZGlUok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2vNVGZGlUok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2vNVGZGlUok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-31T12:45:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7ib4AcC3sRdLeq0i56CcmJ0QA7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2y_oci4pV-w"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-17T19:48:46Z",
+        "channelId": "UCBH4HCPqGYZ0Yr6peYP0yag",
+        "title": "Red - Trailer Ufficiale",
+        "description": "Ecco Mei! Guarda il trailer di #Red, il nuovo film Disney e Pixar, in arrivo a marzo 2022. Seguici anche su Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2y_oci4pV-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2y_oci4pV-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2y_oci4pV-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney IT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-17T19:48:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bzJ6Ep3iZezEAan4exrfQaTVHgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wDOlZoMZXN8"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-06T14:29:30Z",
+        "channelId": "UCBH4HCPqGYZ0Yr6peYP0yag",
+        "title": "Strange World - Un Mondo Misterioso | Teaser Trailer",
+        "description": "Viaggia oltre lo spazio e il tempo verso un luogo di infinito mistero. ⛰ Guarda il trailer del nuovo film Disney: #StrangeWorld ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDOlZoMZXN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDOlZoMZXN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDOlZoMZXN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney IT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-06T14:29:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LrgyZGWzFiv0C1Nr3QCEPL5upDw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rSMUSzQ9n2Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-16T14:33:02Z",
+        "channelId": "UCGA2OgjW608QEaGwxA7aRTg",
+        "title": "Marvel Studios&#39; SHE-HULK - NEW TRAILER | Disney+ (2022)",
+        "description": "SheHulk #DisneyPlus #MarvelStudios Take a look at our 'NEW TRAILER' concept for Disney+ series 'She-Hulk' featuring Tatiana ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rSMUSzQ9n2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rSMUSzQ9n2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rSMUSzQ9n2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Screen Culture",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-16T14:33:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JsAzCa_gTq5N0S8eGaIWYTDXZ6c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mYfJxlgR2jw"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-28T13:00:15Z",
+        "channelId": "UC_IRYSp4auq7hKLvziWVH6w",
+        "title": "Disney and Pixar’s Luca | Official Trailer | Disney+",
+        "description": "This summer, you're invited to Portorosso. Watch the new trailer for Disney and Pixar's Luca and see the film June 18 on Disney+.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mYfJxlgR2jw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mYfJxlgR2jw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mYfJxlgR2jw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pixar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-28T13:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MreFXmMNujQbTgYnXYlZpDW8G3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ecJRvz9nk-U"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-28T12:00:32Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "Teaser Trailer | Hocus Pocus 2 | Disney+",
+        "description": "This Halloween Season, some legends never die. Hocus Pocus 2, an Original movie event, streaming September 30 on Disney ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ecJRvz9nk-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ecJRvz9nk-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ecJRvz9nk-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-28T12:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KThL3eVB2kIhzg3ifrYm6uSu2MY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7MtV0v3DrCw"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-31T13:17:47Z",
+        "channelId": "UC8huWhDjI8UJK4bqo8BJ9WQ",
+        "title": "Pinocho | Teaser Tráiler Subtitulado | Disney+",
+        "description": "Pinocho en un live-action DE VERDAD Revive la magia de un clásico en este estreno del #DisneyPlusDay. #Pinocho, Película ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7MtV0v3DrCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7MtV0v3DrCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7MtV0v3DrCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Studios LA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-31T13:17:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T_JtiXoBEzJgXkxYdM9GfVPpp_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XdKzUbAiswE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-17T13:59:29Z",
+        "channelId": "UC_IRYSp4auq7hKLvziWVH6w",
+        "title": "Turning Red | Official Trailer",
+        "description": "It's gonna be Mei! Watch the brand-new trailer for Disney and Pixar's Turning Red, coming March 2022. Disney and Pixar's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XdKzUbAiswE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XdKzUbAiswE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdKzUbAiswE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pixar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-17T13:59:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bBeFwyNH9WlNM7u5aH9UPKR0Sr4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ozI1fDk4q-A"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-13T09:49:53Z",
+        "channelId": "UCtusyqklm2nsSe6SINTKMOA",
+        "title": "STRANGE WORLD | Teaser Trailer Ufficiale #1| Italiano",
+        "description": "☆ Subscribe to our Channel ☆ Subscribe to Disney Switzerland: http://bit.ly/2tkLR6D ☆ Like us on Facebook ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ozI1fDk4q-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ozI1fDk4q-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ozI1fDk4q-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Schweiz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-13T09:49:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fgb0h4bk0zhzGCEZ_Zh_CGVtHno",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PclRxfuVoi0"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-18T19:14:15Z",
+        "channelId": "UCTBgh4gqMtkSJ-iPmwYTrMw",
+        "title": "I found why Disney is hiding the Mando S3 Trailer...",
+        "description": "It turns out that the leaked trailer for the Mandalorian Season 3 which has been floating around was actually using stock music, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PclRxfuVoi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PclRxfuVoi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PclRxfuVoi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EcksClips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-18T19:14:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DhDgwlTzkkbGvPknjLgVha0eaNI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jLbo0-11ZBA"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-28T13:27:38Z",
+        "channelId": "UCHjX8DEVy6ECIRpdGYzHBSA",
+        "title": "Luca | Officiële trailer | Disney+",
+        "description": "Ga op reis naar Portorosso deze zomer. 🏖️ Bekijk de nieuwe trailer van #PixarLuca en stream vanaf 18 juni exclusief op ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jLbo0-11ZBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jLbo0-11ZBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jLbo0-11ZBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney NL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-28T13:27:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gqVqivTxYZ2kVD-YMIFd0h-n09g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dOA2UvbA1OU"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-19T12:31:12Z",
+        "channelId": "UCA09ogM92UefGEHtSZy5zkw",
+        "title": "19(1)(a) Official Teaser | Vijay Sethupathi, Nithya Menen, Indrajith Sukumaran | Disney Plus Hotstar",
+        "description": "19(1)(a) Official Teaser | Vijay Sethupathi, Nithya Menen, Indrajith Sukumaran | DisneyPlus Hotstar Presenting the official teaser ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dOA2UvbA1OU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dOA2UvbA1OU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dOA2UvbA1OU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DisneyPlus Hotstar Malayalam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-19T12:31:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yhDFz0PESId5jX_2ZQbuVYC6fMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iv56zB7qW9s"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-31T14:25:23Z",
+        "channelId": "UCBH4HCPqGYZ0Yr6peYP0yag",
+        "title": "Disney+ | Pinocchio - Disponibile in Anteprima dall&#39;8 Settembre",
+        "description": "C'è una stella su nel ciel...⭐ Guarda il trailer del nuovissimo live action #Pinocchio, disponibile dall'8 settembre in esclusiva su ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iv56zB7qW9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iv56zB7qW9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iv56zB7qW9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney IT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-31T14:25:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7DqBEGmHTtvXU708DEBtiv9jvQ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WON-guvrGsI"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-17T14:38:20Z",
+        "channelId": "UCvv3SF2SzAAOAkvs_r7vEvA",
+        "title": "ROT – Offizieller Trailer (deutsch/german) | Disney•Pixar HD",
+        "description": "It's gonna be Mei! Sieh dir jetzt den brandneuen Trailer zu Disney und Pixars ROT an. Jetzt nur auf #DisneyPlus streamen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WON-guvrGsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WON-guvrGsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WON-guvrGsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Deutschland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-17T14:38:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cdWvoKxDrK2fGDk3HsAqUq2bkx0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uNtaQtP7MCI"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-06T14:18:41Z",
+        "channelId": "UCQphRgAhj5UxktrQNP3WF5g",
+        "title": "STRANGE WORLD | OFFICIAL TEASER TRAILER | DISNEY UK",
+        "description": "Travel past space and time to a place of infinite mystery. Watch the new trailer for Disney's #StrangeWorld and see the movie this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uNtaQtP7MCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uNtaQtP7MCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uNtaQtP7MCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney UK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-06T14:18:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sqs8XoQv9fA4UZWWvf1s92O0ERU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CaimKeDcudo"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-29T13:00:05Z",
+        "channelId": "UC_976xMxPgzIa290Hqtk-9g",
+        "title": "Disney&#39;s Encanto | Official Trailer",
+        "description": "This November, find your magic. ✨   Watch the brand-new trailer for Disney's Encanto, coming to theaters this Thanksgiving.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CaimKeDcudo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CaimKeDcudo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CaimKeDcudo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Animation Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-29T13:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ebH3QDvtvvPkLMiMugwbfdvb7IA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Ik0iKJbK1A"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-28T13:44:19Z",
+        "channelId": "UCunkR_ekffRWZppVa1E6tIA",
+        "title": "Luca | Trailer Oficial Dublado | #PixarLuca",
+        "description": "Confira o novo trailer de #PixarLuca e prepare-se para conhecer Portorosso. 🏖️ Estreia exclusiva em 18 de junho.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Ik0iKJbK1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Ik0iKJbK1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Ik0iKJbK1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-28T13:44:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "44nPcnli1MnlVNm8HfGdorfZd6o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q25hRul0rMc"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-28T15:04:28Z",
+        "channelId": "UCP6nJ-Elnfnpjv6HQRsv1Cw",
+        "title": "Abracadabra 2 | Teaser Trailer Oficial Dublado | Disney+",
+        "description": "Algumas lendas nunca morrem. #Abracadabra2, um Filme Original, em 30 de setembro no #DisneyPlus.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q25hRul0rMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q25hRul0rMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q25hRul0rMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-28T15:04:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BFfyKbItFQu7pahq6x_sVto9WdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LE_IW36cL7E"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-31T13:24:43Z",
+        "channelId": "UChWkfE7zet_Kh9paHtOLYnA",
+        "title": "Pinóquio | Teaser Trailer | Disney+",
+        "description": "Quando pedes um desejo… ⭐ “Pinóquio”, uma estreia do Disney+ Day, a 8 de setembro. Disney + Pixar + Marvel + Star ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LE_IW36cL7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LE_IW36cL7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LE_IW36cL7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Plus Portugal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-31T13:24:43Z"
+      }
+    }
+  ]
+}
