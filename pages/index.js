@@ -6,7 +6,7 @@ import SectionCards from "../components/card/section-cards";
 import {getPopularVideos, getVideos} from "../lib/videos";
 
 export async function getServerSideProps() {
-    const disneyVideos = await getVideos("disney trailer");
+    const disneyVideos = await getVideos("dota2");
     const travelVideos = await getVideos("Indie music");
     const productivityVideos = await getVideos("Productivity");
     const popularVideos = await getPopularVideos("popular");
@@ -18,6 +18,10 @@ export async function getServerSideProps() {
 
 export default function Home({disneyVideos, travelVideos, productivityVideos, popularVideos}) {
 
+    const getUsername = () => {
+
+    }
+
     return (
         <div className={styles.container}>
             <Head>
@@ -27,6 +31,7 @@ export default function Home({disneyVideos, travelVideos, productivityVideos, po
             </Head>
             <div className={styles.main}>
                 <NavBar username={'luca@sunnyday.software'}/>
+                {/*<video src={"https://strapi.sunnyday.software/uploads/Studio_Legale_Mattiazzo_Firefox_Developer_Edition_2022_07_15_17_31_16_638cb1d142.mp4?updated_at=2022-07-20T08:31:26.738Z"} autoPlay></video>*/}
                 <Banner title="Clifford the red dog" subTitle="A very nice dog" imgUrl="/static/clifford.jpg"/>
 
                 <div className={styles.sectionWrapper}>
