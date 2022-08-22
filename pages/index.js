@@ -32,7 +32,7 @@ export default function Home({disneyVideos, travelVideos, productivityVideos, po
             <div className={styles.main}>
                 <NavBar username={'luca@sunnyday.software'}/>
                 {/*<video src={"https://strapi.sunnyday.software/uploads/Studio_Legale_Mattiazzo_Firefox_Developer_Edition_2022_07_15_17_31_16_638cb1d142.mp4?updated_at=2022-07-20T08:31:26.738Z"} autoPlay></video>*/}
-                <Banner title="Clifford the red dog" subTitle="A very nice dog" imgUrl="/static/clifford.jpg"/>
+                <Banner videoId="4zH5iYM4wJo" title="Clifford the red dog" subTitle="A very nice dog" imgUrl="/static/clifford.jpg"/>
 
                 <div className={styles.sectionWrapper}>
                     <SectionCards title={"Disney"} videos={disneyVideos} size={"large"}/>
